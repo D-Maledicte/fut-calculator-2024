@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage.e8286de5.js";import{_ as e,y as s,A as t,B as o,C as r,E as c}from"./index.7408be41.js";import"./render.655e90c0.js";const n=s({}),p=c("h5",{class:"q-mt-none"},"CardValuePage",-1);function _(d,f,i,l,m,u){return t(),o(a,{class:"q-pa-lg"},{default:r(()=>[p]),_:1})}var B=e(n,[["render",_]]);export{B as default};
